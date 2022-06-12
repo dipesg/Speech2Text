@@ -1,6 +1,7 @@
 SpeechRecognition
 flask
 flask-cors
+gunicorn
 
 
 
